@@ -1,12 +1,12 @@
 <h3 align="center">Hola, somos CPA <br> (Compose Projects Android) :sunglasses:</h3>
 
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/less-dev?style=social">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/less-dev?style=social">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/compose-projects-android?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/compose-projects-android?style=social">
 </p>
 
 <p align="center">
-   <img alt="GitHub stars" src="https://github.com/Less-dev/Less-dev/blob/main/banner.png" width="1000" height="300">
+   <img alt="GitHub stars" src="https://github.com/compose-projects-android/.github/blob/main/profile/banner.png" width="1000" height="300">
 </p>
 
 <p align="center">
