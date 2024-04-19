@@ -1,4 +1,4 @@
-<h3 align="center">Hola, somos CPA(Compose Projects Android) :sunglasses:</h3>
+<h3 align="center">Hola, somos CPA <br> (Compose Projects Android) :sunglasses:</h3>
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/less-dev?style=social">
