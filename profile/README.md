@@ -125,4 +125,9 @@
   <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
 </p>
 
-<a align ="center" href=#><img src="contributions.svg"></a>
+
+<p align="center">
+   <img alt="GitHub stars" src="https://github.com/compose-projects-android/.github/blob/main/profile/contributions.svg" width="1000" height="300">
+</p>
+
+
