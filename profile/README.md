@@ -125,4 +125,4 @@
   <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
 </p>
 
-<br><br>
+<a align ="center" href=#><img src="contributions.svg"></a>
