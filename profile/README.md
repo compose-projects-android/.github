@@ -124,14 +124,7 @@
   <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
 </p>
 
-<h2 align="center">📊 Estadísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=less-dev&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=less-dev&hide_progress=true&theme=transparent" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <h3 align="center">Sobre nosotros 😊</h3>
 
