@@ -152,11 +152,6 @@
 [![Gmail](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:less.github@gmail.com)
 
 
-<a align ="center" href=#><img src="contributions.svg"></a>
-  <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
-</p>
-
-
 <p align="center">
    <img alt="GitHub stars" src="https://github.com/compose-projects-android/.github/blob/main/profile/contributions.svg" width="1000" height="300">
 </p>
