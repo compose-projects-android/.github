@@ -109,7 +109,6 @@
 </div>
 <br><br> 
 
-
 <h2 align="center">🛠 Tecnologías</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Dagger_Hilt-4285F4?style=flat-square&logo=dagger&logoColor=white" width="120" height="30" />
@@ -122,6 +121,38 @@
 
 <h2 align="center">📚 Lenguajes</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
+</p>
+
+<h2 align="center">📊 Estadísticas</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=less-dev&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=less-dev&hide_progress=true&theme=transparent" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h3 align="center">Sobre nosotros 😊</h3>
+
+<p align="center"><strong><i>Somos CPA (Compose Projects Android) 👋, una pequeña organización sin ánimos de lucro 💰, enfocada en hacer proyectos con el framework <a href="https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=CjwKCAjwz42xBhB9EiwA48pT73wT-C3ekXDg_XRYq0gGIXuyBk09GzvPws86ksHL2P_Ox_5dN8TI4RoCOewQAvD_BwE&gclsrc=aw.ds" target="_blank">Jetpack Compose</a>, nuestro objetivo principal es crear software de calidad, haciendo uso de buenas prácticas.
+ </i></strong></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
+</p>
+
+<h3 align="center">Contáctenos 📱</h3>
+
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LessGithub)
+
+[![Discord](https://img.shields.io/badge/Canal_Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/DWWqrwNy)
+
+[![Gmail](https://img.shields.io/badge/gmail-C0C0C0?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:less.github@gmail.com)
+
+
+<a align ="center" href=#><img src="contributions.svg"></a>
   <img src="https://img.shields.io/badge/-Kotlin-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" width="100" height="30" />
 </p>
 
