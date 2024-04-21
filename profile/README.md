@@ -138,7 +138,7 @@
 <h3 align="center">Contáctenos 📱</h3>
 
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LessGithub)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/compose_projects_android)
 
 [![Discord](https://img.shields.io/badge/Canal_Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/DWWqrwNy)
 
